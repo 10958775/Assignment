@@ -13,4 +13,4 @@ print(prime_number)
 
 #Print the sum of the prime numbers in the list.
 total = sum(prime_number)
-print(total)
+print('The total is ' +str(total))
